@@ -1,1 +1,1 @@
-init
+https://oj.leetcode.com
